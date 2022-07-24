@@ -1,0 +1,25 @@
+#PBS -q standard
+#PBS -l select=1:ncpus=24:mem=144gb:pcmem=6gb
+###  Specify a name  for the job
+#PBS -N P5Coord_v1
+###  Specify  the  group  name
+#PBS -W group_list=nfan
+###  Request  email  when  job  begins  and  ends
+#PBS -m bea
+###  Specify  email  address  to use for  notification.
+#PBS -M danielzunigav@email.arizona.edu
+
+### Used if job  requires  partial  node  only
+#PBS -l place=pack:shared
+###  CPUtime  required  in hhh:mm:ss.
+###  Leading 0's can be  omitted e.g 48:0:0  sets 48 hours
+#PBS -l cput=240:0:0
+###  Walltime  is  created  by  cputime  divided  by total  cores.
+### This  field  can be  overwritten  by a longer  time
+#PBS -l walltime=10:00:00
+### Joins  standard  error  and  standard  out
+#PBS -j oe
+
+cd ~
+make
+time ./P5Coord_v1 ${filename}
