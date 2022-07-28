@@ -6,7 +6,7 @@ This is a repository to supplement the instruction manual for biomass supply cha
 
 SupplyChainTrans_Inst.pdf - Instruction Manual for the SBAR project.
 
-Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1-3].
+Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1].
 
 Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^4].
 
