@@ -6,11 +6,11 @@ This is a repository to supplement the instruction manual for biomass supply cha
 
 SupplyChainTrans_Inst.pdf - Instruction Manual for the SBAR project.
 
-Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1].
+Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1-3].
 
-Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^2].
+Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^4].
 
-Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^3].
+Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^5].
 
 ### Useful links
 
@@ -32,7 +32,9 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 
 ### Reference
 
-[^1]: [Daniel A. Zuniga Vazquez, Ou Sun, Neng Fan, Evan Sproul, Hailey M. Summers, Jason C. Quinn, Sita Khanal, Paul Gutierrez, VeeAnder Mealing, Amy E. Landis, Clark Seavert, Trent Teegerstrom, and Blase Evancho. Integrating environmental and social impacts into optimal design of guayule and guar supply chains. *Computers & Chemical Engineering*, 146:107223, 2021.](https://www.sciencedirect.com/science/article/abs/pii/S0098135421000016)
-[^2]: [Daniel A. Zuniga Vazquez, Neng Fan, Trent Teegerstrom, Clark Seavert, Hailey M. Summers, Evan Sproul, and Jason C. Quinn. Optimal production planning and machinery scheduling for semi-arid farms. *Computers and Electronics in Agriculture*, 187:106288, 2021. ](https://www.sciencedirect.com/science/article/pii/S0168169921003057)
-[^3]: Shunyu Yao, Neng Fan, and et al. Demand-driven harvest planning and machinery scheduling for guayule. 2022. to be submitted.
+[^1]: [Daniel A. Zuniga Vazquez, Ou Sun, Neng Fan, Evan Sproul, Hailey M. Summers, Jason C. Quinn, Sita Khanal, Paul Gutierrez, VeeAnder Mealing, Amy E. Landis, Clark Seavert, Trent Teegerstrom, and Blase Evancho. Integrating environmental and social impacts into optimal design of guayule and guar supply chains. *Computers & Chemical Engineering*, 146:107223, 2021.](https://doi.org/10.1016/j.compchemeng.2021.107223)
+[^2]: [Sproul, E., Summers, H., Seavert, C., Robbs, J., Khanal, S., Mealing, V., Landies, A., Fan, N., Sun, O., & Quinn, J. (2020). Integrated techno-economic and environmental analysis of guayule rubber production. *Journal of Cleaner Production*, 273, 122811. doi:10.1016/j.jclepro.2020.122811](https://doi.org/10.1016/j.jclepro.2020.122811)
+[^3]:  [Summers, H., Sproul, E., Seavert, C., Angadi, S., Robbs, J., Khanal, S., Gutierrez, P., Teegerstrom, T., Zuniga Vazquez, D., Fan, N., & Quinn, J. (2021). Economic and environmental analyses of incorporating guar into the American southwest. *Agricultural Systems*, 191, 103146. doi:10.1016/j.agsy.2021.103146](https://doi.org/10.1016/j.agsy.2021.103146)
+[^4]: [Daniel A. Zuniga Vazquez, Neng Fan, Trent Teegerstrom, Clark Seavert, Hailey M. Summers, Evan Sproul, and Jason C. Quinn. Optimal production planning and machinery scheduling for semi-arid farms. *Computers and Electronics in Agriculture*, 187:106288, 2021. ](https://doi.org/10.1016/j.compag.2021.106288)
+[^5]: Shunyu Yao, Neng Fan, and et al. Demand-driven harvest planning and machinery scheduling for guayule. 2022. to be submitted.
 
