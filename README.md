@@ -6,11 +6,11 @@ This is a repository to supplement the instruction manual for biomass supply cha
 
 SupplyChainTrans_Inst.pdf - Instruction Manual for the SBAR project.
 
-Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1][^2][^3].
+Transportation - Data and source code for Chapter 2 in the manual — “Integrating Environmental and Social Impacts into Optimal Design of Guayule and Guar Supply Chains”[^1][^2][^3][^4][^5].
 
-Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^4].
+Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^6].
 
-Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^5].
+Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^7].
 
 ### Useful links
 
@@ -32,9 +32,16 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 
 ### References
 
-[^1]: [D. A. Zuniga Vazquez, O. Sun, N. Fan, E. Sproul, H. Summers, J. Quinn, S. Khanal, P. Gutierrez, V. Mealing, A. Landis, C. Seavert, T. Teegerstrom, B. Evancho. (2021). Integrating environmental and social impacts into optimal design of guayule and guar supply chains. *Computers & Chemical Engineering*, 146,107223. doi:10.1016/j.compchemeng.2021.107223.](https://doi.org/10.1016/j.compchemeng.2021.107223)
-[^2]: [D. A. Zuniga Vazquez, N. Fan, T. Teegerstrom, C. Seavert, H. Summers, E. Sproul, J. Quinn, Optimal design of guayule and guar supply chains for the American Southwest, Proceedings of the IISE Annual Conference & Expo 2023, (K. Babski-Reeves, B. Eksioglu, D. Hampton, eds.), New Orleans, LA, May 2023.](https://sbar.arizona.edu/publication/optimal-design-guayule-guar-supply-chains-american-southwest)
-[^3]:  [H. Summers, E. Sproul, C. Seavert, S. Angadi,  J. Robbs, S. Khanal, P. Gutierrez, T. Teegerstrom, D. A. Zuniga Vazquez, N. Fan,  J. Quinn. (2021). Economic and environmental analyses of incorporating guar into the American southwest. *Agricultural Systems*, 191, 103146. doi:10.1016/j.agsy.2021.103146](https://doi.org/10.1016/j.agsy.2021.103146)
-[^4]: [D. A. Zuniga Vazquez, N. Fan, T. Teegerstrom, C. Seavert, H. Summers, E. Sproul,  J. Quinn. (2021). Optimal production planning and machinery scheduling for semi-arid farms. *Computers and Electronics in Agriculture*, 187, 106288. doi:10.1016/j.compag.2021.106288. ](https://doi.org/10.1016/j.compag.2021.106288)
-[^5]: [S. Yao, N. Fan, C. Seavert, T. Teegerstrom. (2023). Demand-driven harvest planning and machinery scheduling for guayule, *Operations Research Forum* 4, 9. doi:10.1007/s43069-022-00192-2.](https://doi.org/10.1007/s43069-022-00192-2)
+[^1]: [Sun, O., & Fan, N. (2020). A review on optimization methods for biomass supply chain: models and algorithms, sustainable issues, challenges and opportunities. *Process Integration and Optimization for Sustainability*, 4, 203-226. doi:10.1007/s41660-020-00108-9](https://doi.org/10.1007/s41660-020-00108-9)
 
+[^2]: [Sproul, E., Summers, H., Seavert, C., Robbs, J., Khanal, S., Mealing, V., Landies, A., Fan, N., Sun, O., & Quinn, J. (2020). Integrated techno-economic and environmental analysis of guayule rubber production. *Journal of Cleaner Production*, 273, 122811. doi:10.1016/j.jclepro.2020.122811](https://www.doi.org/10.1016/j.jclepro.2020.122811)
+
+[^3]: [Summers, H., Sproul, E., Seavert, C., Angadi, S., Robbs, J., Khanal, S., Gutierrez, P., Teegerstrom, T., Zuniga Vazquez, D., Fan, N., & Quinn, J. (2021). Economic and environmental analyses of incorporating guar into the American southwest. *Agricultural Systems*, 191, 103146. doi:10.1016/j.agsy.2021.103146](https://doi.org/10.1016/j.agsy.2021.103146)
+
+[^4]: [Zuniga Vazquez, D., Sun, O., Fan, N., Sproul, E., Summers, H., Quinn, J., Khanal, S., Gutierrez, P., Mealing, V., Landies, A., Seavert, C., Teegerstrom, T., & Evancho, B. (2021). Integrating environmental and social impacts into optimal design of guayule and guar supply chains. *Computers & Chemical Engineering*, 146, 107223. doi:10.1016/j.compchemeng.2021.107223](https://doi.org/10.1016/j.compchemeng.2021.107223)
+
+[^5]: Zuniga Vazquez, D., Fan, N., Teegerstrom, T., Seavert, C., Summers, H., Sproul, E., & Quinn, J (2023).  Optimal design of guayule and guar supply chains for the American Southwest, Proceedings of the IISE Annual Conference & Expo 2023, K. Babski-Reeves, B. Eksioglu, D. Hampton, eds., 5/2023.
+
+[^6]: [Zuniga Vazquez, D., Fan, N., Teegerstrom, T., Seavert, C., Summers, H., Sproul, E., & Quinn, J. (2021).  Optimal production planning and machinery scheduling for semi-arid farms, *Computers and Electronics in Agriculture*, 187, 106288. DOI: 10.1016/j.compag.2021.106288](https://doi.org/10.1016/j.compag.2021.106288)
+
+[^7]: [Yao, S., Fan, N., Seavert, C., Teegerstrom, T. (2023) Demand-driven harvest planning and machinery scheduling for guayule, *Operations Research Forum*, 4(9): 1-25. DOI: 10.1007/s43069-022-00192-2](https://doi.org/10.1007/s43069-022-00192-2)
