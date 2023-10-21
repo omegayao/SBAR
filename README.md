@@ -14,6 +14,9 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 
 ### Useful links
 
+- **Sustainable Bioeconomy for Arid Regions Center of Excellence**
+  - https://sbar.arizona.edu/ 
+
 - **ArcGIS Pro** 
   - https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources
 - **Duo Mobile**
