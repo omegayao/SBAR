@@ -10,7 +10,7 @@ Transportation - Data and source code for Chapter 2 in the manual — “Integra
 
 Production Planning - Data and source code for Chapter 3 in the manual — “Optimal Production Planning and Machinery Scheduling for Semi-Arid Farms”[^6].
 
-Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^7].
+Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^7][^8].
 
 ### Useful links
 
@@ -45,6 +45,8 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 
 [^5]: Zuniga Vazquez, D., Fan, N., Teegerstrom, T., Seavert, C., Summers, H., Sproul, E., & Quinn, J (2023).  Optimal design of guayule and guar supply chains for the American Southwest, Proceedings of the IISE Annual Conference & Expo 2023, K. Babski-Reeves, B. Eksioglu, D. Hampton, eds., 5/2023.
 
-[^6]: [Zuniga Vazquez, D., Fan, N., Teegerstrom, T., Seavert, C., Summers, H., Sproul, E., & Quinn, J. (2021).  Optimal production planning and machinery scheduling for semi-arid farms, *Computers and Electronics in Agriculture*, 187, 106288. DOI: 10.1016/j.compag.2021.106288](https://doi.org/10.1016/j.compag.2021.106288)
+[^6]: [Zuniga Vazquez, D., Fan, N., Teegerstrom, T., Seavert, C., Summers, H., Sproul, E., & Quinn, J. (2021).  Optimal production planning and machinery scheduling for semi-arid farms, *Computers and Electronics in Agriculture*, 187, 106288. doi: 10.1016/j.compag.2021.106288](https://doi.org/10.1016/j.compag.2021.106288)
 
-[^7]: [Yao, S., Fan, N., Seavert, C., Teegerstrom, T. (2023) Demand-driven harvest planning and machinery scheduling for guayule, *Operations Research Forum*, 4(9): 1-25. DOI: 10.1007/s43069-022-00192-2](https://doi.org/10.1007/s43069-022-00192-2)
+[^7]: [Yao, S., Fan, N., Seavert, C., Teegerstrom, T. (2023) Demand-driven harvest planning and machinery scheduling for guayule, *Operations Research Forum*, 4(9): 1-25. doi: 10.1007/s43069-022-00192-2](https://doi.org/10.1007/s43069-022-00192-2)
+
+[^8]:[Mahdi Mahdavimanshadi, Shunyu Yao, Neng Fan, Optimal guayule harvest planning and machinery scheduling under drought scenarios in semi-arid farms, Smart Agricultural Technology, Volume 7, 2024, 100420. doi: 10.1016/j.atech.2024.100420](https://doi.org/10.1016/j.atech.2024.100420)
