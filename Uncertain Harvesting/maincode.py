@@ -3,7 +3,7 @@ import numpy as np
 from gurobipy import *
 # <----------------------- Read Data ----------------------->
 
-path = (r"/home/u20/mahdimahdavi//uncertainharvesting.txt")
+path = (r"/home/u20/mahdimahdavi//uncertain harvesting.txt")
 
 with open(path) as f:
 
