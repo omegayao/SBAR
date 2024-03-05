@@ -198,7 +198,7 @@ align = '{:^10} {:^10} {:^10} {:^10} {:^10}'
 file.write(align.format('Season', 'Scenario', 'Field', 'Start_time', 'End_time',' '))
 file.write('\n')
 for k in K:
-    for s in AA:
+    for s in range(S):
         for f in ins[k]:
             file.write(align.format(k, s, f, int(st[f, k, s].x), int(e[f, k, s].x), ' '))
             file.write('\n')
@@ -225,7 +225,7 @@ align = '{:^10} {:^10} {:^10} {:^10} {:^10} {:^10.2f}'
 for k in K:
     for f in ins[k]:
         for h in H:
-            for s in AA:
+            for s in range(S):
                 for p in P:
                     if alpha[h, f, p, k, s].x > 0.001:
                         file.write(align.format(k, s, f, h, p, alpha[h, f, p, k, s].x,' '))
@@ -242,7 +242,7 @@ for k in K:
         for p in P:
             for i in ins[k]:
                  for j in ins[k]:
-                    for s in AA:
+                    for s in range(S):
                         if y[h, p, i, j, k, s].x > 0.001:
                             file.write(align.format(k, h,  p, s, str(i)+' --> '+str(j)))
                             file.write('\n')
@@ -255,7 +255,7 @@ file.write('\n')
 for k in K:
     for p in P:
         for f in ins[k]:
-            for s in AA:
+            for s in range(S):
                 if (In[p , s, f, k].x > 0 ):
                     file.write(align.format(k, p, f, s, In[p , s, f, k].x,' '))
                     file.write('\n')
@@ -267,7 +267,7 @@ file.write('\n')
 for k in K:
     for p in P:
         for f in ins[k]:
-            for s in AA:
+            for s in range(S):
                 for h in H:
                     if (alpha[h, f, p, k, s].x  > 0.01 ):
                         if (q[p , s, f, k].x > 0 ): 
@@ -291,7 +291,7 @@ for k in K:
     rentcosts=0
     for f in ins[k]:
         for h in H:
-            for s in AA:
+            for s in range(S):
                 for p in P:
                     rentcosts += C_h * u[h,k].x
                     #print(rentcosts) 
@@ -314,7 +314,7 @@ for k in K:
     operationcost=0
     for f in ins[k]:
         for h in H:
-            for s in AA:
+            for s in range(S):
                 for p in P:
                     operationcost += p_scen[s]* C_o * A[f]* alpha[h, f, p, k, s].x
                     #print(rentcosts) 
@@ -339,7 +339,7 @@ for k in K:
     for i in ins[k]:
         for j in ins[k]:
             for h in H:
-                for s in AA:
+                for s in range(S):
                     for p in P:
                         transportationcost += p_scen[s]* C_r * d[i][j]* y[h,p,i,j,k,s].x
                         #print(rentcosts) 
@@ -362,7 +362,7 @@ for k in K:
     file.write('\n')
     penaltycost=0
     for f in ins[k]:
-        for s in AA:
+        for s in range(S):
             penaltycost += p_scen[s]* C_penalty * pe[f, k, s].x * A[f] * I[f, k]
                 #print(rentcosts) 
             totalpenaltycosts += p_scen[s]* C_penalty * pe[f, k, s].x * A[f] * I[f, k]
@@ -383,7 +383,7 @@ for k in K:
     file.write('\n')
     inventorycost=0
     for f in ins[k]:
-        for s in AA:
+        for s in range(S):
             for p in P:
                 inventorycost += p_scen[s] * C_In * In[p, s, f, k].x
                 #print(rentcosts) 
@@ -406,7 +406,7 @@ for k in K:
     file.write('\n')
     shortagecost=0
     for f in ins[k]:
-        for s in AA:
+        for s in range(S):
             for p in P:
                 shortagecost += p_scen[s]* C_sh *q[p, s, f, k].x
                 #print(rentcosts) 
