@@ -50,3 +50,5 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 [^7]: [Yao, S., Fan, N., Seavert, C., Teegerstrom, T. (2023) Demand-driven harvest planning and machinery scheduling for guayule, *Operations Research Forum*, 4(9): 1-25. doi: 10.1007/s43069-022-00192-2](https://doi.org/10.1007/s43069-022-00192-2)
 
 [^8]:[Mahdavimanshadi, M., Yao, S., & Fan, N. (2024). Optimal Guayule Harvest Planning and Machinery Scheduling under Drought Scenarios in Semi-Arid Farms. *Smart Agricultural Technology*, 100420. doi: 10.1016/j.atech.2024.100420](https://doi.org/10.1016/j.atech.2024.100420)
+
+[^9]:[Mahdavimanshadi, M., Fan, N. Multistage Stochastic Optimization for Semi-arid Farm Crop Rotation and Water Irrigation Scheduling Under Drought Scenarios. JABES (2024)](https://doi.org/10.1007/s13253-024-00651-9)
