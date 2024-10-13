@@ -1,4 +1,4 @@
-# SBARaaaa
+# SBAR
 
 This is a repository to supplement the instruction manual for biomass supply chain and transportation.
 
@@ -51,4 +51,4 @@ Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driv
 
 [^8]:[Mahdavimanshadi, M., Yao, S., & Fan, N. (2024). Optimal Guayule Harvest Planning and Machinery Scheduling under Drought Scenarios in Semi-Arid Farms. *Smart Agricultural Technology*, 100420. doi: 10.1016/j.atech.2024.100420](https://doi.org/10.1016/j.atech.2024.100420)
 
-[^9]:[Mahdavimanshadi, M., Fan, N. Multistage Stochastic Optimization for Semi-arid Farm Crop Rotation and Water Irrigation Scheduling Under Drought Scenarios. JABES (2024)](https://doi.org/10.1007/s13253-024-00651-9)
+[^9]:[Mahdavimanshadi, M., Fan, N. Multistage Stochastic Optimization for Semi-arid Farm Crop Rotation and Water Irrigation Scheduling Under Drought Scenarios. Journal of Agricultural, Biological and Environmental Statistics (2024)](https://doi.org/10.1007/s13253-024-00651-9)
