@@ -12,6 +12,8 @@ Production Planning - Data and source code for Chapter 3 in the manual — “Op
 
 Harvesting - Data and source code for Chapter 4 in the manual — “Demand-Driven Harvest Planning and Machinery Scheduling”[^7][^8].
 
+Crop rotation and water irrigation [^9].
+
 ### Useful links
 
 - **Sustainable Bioeconomy for Arid Regions Center of Excellence**
